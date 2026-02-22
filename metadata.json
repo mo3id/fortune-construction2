@@ -1,0 +1,5 @@
+{
+  "name": "Fortune Construction",
+  "description": "Premium construction and infrastructure company in Malawi, shaping the future with trust and innovation.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
